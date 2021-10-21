@@ -1,0 +1,55 @@
+body{
+  background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgb(25, 113, 201) 0%, rgba(118,236,247,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+
+.main {
+     align-items: center;
+    font: normal 24px/normal "Times New Roman", Times, serif;
+    color: rgba(255,255,255,0.9);
+    text-align: center;   
+  }
+
+.top{
+    font-size: 40px;
+    color: blue;
+}
+
+.findweather{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: rgb(255, 255, 255);
+    font: bold;
+}
+
+.bottom{
+  color: aquamarine;
+}
+
+.status{
+  float: left;
+  margin-left: 435px;
+  margin-top: 5px;
+  
+}
+
+.items{
+  height: 120px;
+  margin: 5px;
+  display: inline-block;
+  padding: 20px;
+  border-radius: 8px;
+  background: rgb(66, 168, 236);
+  color:white;  
+
+}
+
+.mainTemp{
+  
+  font-size: 120px;
+  margin: 45px;
+  margin-right: 420px;
+  margin-bottom: 35px;
+  
+}
